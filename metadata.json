@@ -1,0 +1,6 @@
+{
+  "name": "VASCS Enterprise",
+  "description": "VASCS ULTIMA 27.0 Final Universal Commerce Intelligence State - Unified autonomous commerce civilization where every business, market, industry, economy, and intelligence system operates under maximum intelligence and prosperity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
